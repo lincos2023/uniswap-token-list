@@ -13,6 +13,14 @@
     "default"
   ],
   "tokens": [
+     {
+      "chainId": 1,
+      "address": "0x5f90da089D90389323AeFafDd4Ce5B5d2f6CCe7E",
+      "name": "Lincoin",
+      "symbol": "LCN",
+      "decimals": 18,
+      "logoURI": "https://bafybeiamhshehcaywfp6yfe356nb2n42zemwqvfuh7w2hklnckqzqdh7su.ipfs.dweb.link/logo_lincoin_32x32.png"
+    },
     {
       "chainId": 1,
       "address": "0x111111111117dC0aa78b770fA6A738034120C302",
